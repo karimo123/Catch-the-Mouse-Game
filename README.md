@@ -1,5 +1,5 @@
 # Catch-the-Mouse-Game
-A game made in java done as an assignment in the first year of my program. The purpose is to catch the mouse before it escapes.
+A game made in java done as an assignment in the first year of my university program. The purpose is to catch the mouse before it escapes.
 
 How to play. Download the Files to a folder. Then run the CubesGame file in terminal.
 On mac go to the directory the files are in. For example if they're in the desktop then do this.
